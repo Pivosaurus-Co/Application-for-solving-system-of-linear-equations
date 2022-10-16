@@ -1,4 +1,3 @@
-## Application-for-solving-system-of-linear-equations
 ## Приложение для решения систем линейных алгебраических уравнений
 
 ## Цель проекта
