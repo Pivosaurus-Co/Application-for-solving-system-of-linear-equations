@@ -12,3 +12,6 @@
 
 ## Используемые технологии
 С#, Windows forms.
+
+## Описание архитектуры
+https://github.com/Pivosaurus-Co/Application-for-solving-system-of-linear-equations/blob/74d34995e01e69d1bb20a3e597a1484868e35344/docs/architecture.md
