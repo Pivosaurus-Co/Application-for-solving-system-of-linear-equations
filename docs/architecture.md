@@ -23,3 +23,4 @@ changeColsButton - меню для выбора количество перем�
 Изображение с архитектурой:
 
 https://github.com/Pivosaurus-Co/Application-for-solving-system-of-linear-equations/blob/3d230fbb6a0f29ac89656938bbc30ba206d8bc44/docs/uml_diagram.png
+./docs/uml_diagram.png
