@@ -15,3 +15,6 @@
 
 ## Описание архитектуры
 https://github.com/Pivosaurus-Co/Application-for-solving-system-of-linear-equations/blob/74d34995e01e69d1bb20a3e597a1484868e35344/docs/architecture.md
+
+## Описание процессов
+https://github.com/Pivosaurus-Co/Application-for-solving-system-of-linear-equations/blob/355c03470cddfa878c3a036dffbba32d0e6b816a/docs/process.md
