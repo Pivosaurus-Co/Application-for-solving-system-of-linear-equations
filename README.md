@@ -18,3 +18,6 @@ https://github.com/Pivosaurus-Co/Application-for-solving-system-of-linear-equati
 
 ## Описание процессов
 https://github.com/Pivosaurus-Co/Application-for-solving-system-of-linear-equations/blob/355c03470cddfa878c3a036dffbba32d0e6b816a/docs/process.md
+
+## Описание команды
+https://github.com/Pivosaurus-Co/Application-for-solving-system-of-linear-equations/blob/c5d1b1fbb70526af0613aba93684819e07de5582/docs/team.md
